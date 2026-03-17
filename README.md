@@ -8,13 +8,11 @@ The project was developed by a 13-member cross-functional student team and progr
 
 ## My Role
 
-I served as **Product Lead and Frontend Engineer**, with responsibilities including:
+I served as **Frontend Leader & Frontend Engineer**, with responsibilities including:
 
-- Defining product vision, system scope, and feature priorities
-- Leading frontend architecture decisions using Vue.js
-- Designing and standardizing a reusable component library to ensure UI consistency
-- Writing product specifications and managing issue tracking
-- Coordinating sprint planning and cross-functional collaboration
+- Collaborate with UI / UX team
+- Develop Frontend programming, using Vue.js, VueX
+- Manage team progress and distribute tasks to team members
 
 ## Technical Stack
 
@@ -27,8 +25,6 @@ I served as **Product Lead and Frontend Engineer**, with responsibilities includ
 
 This repository reflects the **final integrated frontend codebase**.  
 Earlier development phases and backend implementation were maintained in separate repositories.
-
-As Product Lead, my primary contributions in this repository focused on frontend architecture, product specifications, issue tracking, and sprint coordination rather than volume of code commits.
 
 ## Documentation Language
 
