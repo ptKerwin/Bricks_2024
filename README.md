@@ -26,10 +26,6 @@ I served as **Frontend Leader & Frontend Engineer**, with responsibilities inclu
 This repository reflects the **final integrated frontend codebase**.  
 Earlier development phases and backend implementation were maintained in separate repositories.
 
-## Documentation Language
-
-Project documentation and issue discussions were conducted primarily in **Chinese**, reflecting the working language of the development team.
-
 ## Product & Workflow Snapshots
 
 Below are selected snapshots illustrating the product interface and development workflow of Bricks.
@@ -51,4 +47,4 @@ Details of development logic and cross-team communication can be found in the Is
 
 ---
 
-*This repository represents a student-initiated academic project and is shared here to illustrate my role in product leadership, system design, and cross-functional software development.*
+*This repository represents a student-initiated academic project and is shared here to illustrate my role in frontend leadership*
