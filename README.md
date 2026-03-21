@@ -1,7 +1,8 @@
 # Bricks
 
 Bricks is a student project management platform designed for university teams to better organize tasks, documentation, and collaboration workflows.
-For environment setup and developing requirements, please refer to document.md
+
+For environment setup and developing requirements, please refer to **document.md**
 
 ## Project Overview
 
