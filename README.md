@@ -32,6 +32,9 @@ Earlier development phases and backend implementation were maintained in separat
 
 Below are selected snapshots illustrating the product interface and development workflow of Bricks.
 
+### Login Interface
+<img width="1920" height="1008" alt="frontend - Google Chrome 2026_3_21 下午 03_52_55" src="https://github.com/user-attachments/assets/401eb384-afac-4216-8a7f-2b9818588cc3" /> Implemented multiple authentication methods. 
+
 ### Product Interface (Tag-Based Meeting Minutes)
 <img width="1440" height="800" alt="截圖 2026-01-14 下午2 01 17" src="https://github.com/user-attachments/assets/f211101f-f977-4809-a084-61cce57147aa" />
 Redesigned based on user feedback to simplify project archiving.
