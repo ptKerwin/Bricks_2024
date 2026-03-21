@@ -10,7 +10,7 @@ The project was developed by a 13-member cross-functional student team and progr
 
 I served as **Frontend Leader & Frontend Engineer**, with responsibilities including:
 
-- Collaborate with UI / UX team
+- Collaborate with UI / UX team, backend team
 - Develop Frontend programming, using Vue.js, VueX
 - Manage team progress and distribute tasks to team members
 
@@ -40,11 +40,9 @@ Details of development logic and cross-team communication can be found in the Is
 
 ## Key Contributions & Impact
 
-- Standardized a reusable frontend component system, reducing rework and improving UI consistency
-- Coordinated design–engineering handoffs across frontend and backend teams
-- Guided product decisions using insights from 600+ user survey responses and usability testing
-- Led the redesign of the tagging and information retrieval system to improve usability
+- Engineered a standardized, reusable frontend component library, significantly reducing development rework and ensuring strict UI consistency.
+- Streamlined cross-functional workflows by optimizing design-to-engineering handoffs between UI/UX, frontend, and backend teams.
+- Drove data-informed product strategy by analyzing insights from 600+ user survey responses and conducting comprehensive usability testing.
+- Spearheaded the redesign of the tagging and information retrieval systems, dramatically enhancing data discoverability and overall usability.
 
----
-
-*This repository represents a student-initiated academic project and is shared here to illustrate my role in frontend leadership*
+*Note: This student-initiated academic project is highlighted to demonstrate end-to-end frontend leadership and cross-functional management capabilities.*
